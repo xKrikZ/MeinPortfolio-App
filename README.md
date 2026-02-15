@@ -36,16 +36,10 @@ Portfolio-Manager für Windows mit Fokus auf einfache Erfassung, Performance-Üb
 
 Hinweis: Falls noch kein Release vorhanden ist, gibt es noch keine `*.exe`-Datei.
 
-### Option 2: Portable Version
-1. Öffne die Release-Seite: [GitHub Releases](https://github.com/xKrikZ/MeinPortfolio-App/releases)
-2. Lade im neuesten Release die Portable-Datei (`*.zip`) aus **Assets** herunter.
-3. Entpacke das ZIP
-4. Führe `PortfolioManager.exe` aus
-
 Sofort verfügbar (ohne Release):
 - Quellcode als ZIP: [MeinPortfolio-App-main.zip](https://github.com/xKrikZ/MeinPortfolio-App/archive/refs/heads/main.zip)
 
-### Option 3: Von Quellcode (Entwickler)
+### Option 2: Von Quellcode (Entwickler)
 Hinweis: Markdown-Zeilen wie `# ...`, `## ...`, `- ...` oder `![...]` werden nicht im Terminal ausgeführt.
 Führe nur die Befehle innerhalb des Codeblocks aus.
 
