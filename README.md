@@ -50,8 +50,9 @@ Hinweis: Markdown-Zeilen wie `# ...`, `## ...`, `- ...` oder `![...]` werden nic
 Führe nur die Befehle innerhalb des Codeblocks aus.
 
 ```bash
-# In den Projektordner wechseln (anpassen falls dein Pfad anders ist)
-cd C:\Users\Janni\OneDrive\Desktop\Private\Privatbereich\Aktien
+# Repository klonen und in den Ordner wechseln
+git clone https://github.com/xKrikZ/MeinPortfolio-App.git
+cd MeinPortfolio-App
 
 # Virtual Environment erstellen
 python -m venv venv
@@ -62,13 +63,6 @@ pip install -r requirements.txt
 
 # Anwendung starten
 python main.py
-```
-
-Optional (nur wenn du wirklich von GitHub klonen willst):
-
-```bash
-git clone https://github.com/xKrikZ/MeinPortfolio-App.git
-cd MeinPortfolio-App
 ```
 
 ## 📄 Lizenz
