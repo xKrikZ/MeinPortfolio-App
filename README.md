@@ -6,7 +6,7 @@ Portfolio-Manager für Windows mit Fokus auf einfache Erfassung, Performance-Üb
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.10+-brightgreen.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial-orange.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 
 ## ✨ Features
@@ -63,3 +63,9 @@ Optional (nur wenn du wirklich von GitHub klonen willst):
 git clone https://github.com/<USERNAME>/<REPO>.git
 cd <REPO>
 ```
+
+## 📄 Lizenz
+
+Dieses Projekt steht unter der **PolyForm Noncommercial License 1.0.0**.
+Kommerzielle Nutzung ist nicht erlaubt.
+Details siehe [LICENSE](LICENSE).
