@@ -8,6 +8,7 @@ Portfolio-Manager für Windows mit Fokus auf einfache Erfassung, Performance-Üb
 ![Python](https://img.shields.io/badge/python-3.10+-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial-orange.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+[![Spenden via PayPal](https://img.shields.io/badge/Spenden-PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/baumgart47)
 
 ## ✨ Features
 
