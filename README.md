@@ -66,6 +66,5 @@ cd <REPO>
 
 ## 📄 Lizenz
 
-Dieses Projekt steht unter der **PolyForm Noncommercial License 1.0.0**.
-Kommerzielle Nutzung ist nicht erlaubt.
-Details siehe [LICENSE](LICENSE).
+Dieses Projekt ist unter der **PolyForm Noncommercial License 1.0.0** lizenziert und darf ausschließlich nicht-kommerziell genutzt werden.
+Die vollständigen Lizenzbedingungen findest du in [LICENSE](LICENSE).
