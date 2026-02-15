@@ -28,7 +28,7 @@ class AppConfig:
     @classmethod
     def from_env(cls) -> "AppConfig":
         """Load configuration from environment or defaults"""
-        db_path = Path(r"C:\Users\Janni\OneDrive\Desktop\Private\Privatbereich\Aktien\portfolio.db")
+        db_path = Path(__file__).parent / "portfolio.db"
         backup_dir = Path(__file__).parent / "backups"
         theme_config_file = Path(__file__).parent / "config" / "theme.json"
         return cls(db_path=db_path, backup_dir=backup_dir, theme_config_file=theme_config_file)
