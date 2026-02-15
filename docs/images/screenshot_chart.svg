@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+    <linearGradient id="lineFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="40" y="30" width="1520" height="840" rx="20" fill="#ffffff"/>
+  <rect x="40" y="30" width="1520" height="70" rx="20" fill="#0f172a"/>
+  <text x="80" y="75" font-family="Segoe UI, Arial" font-size="28" fill="#f9fafb" font-weight="700">MeinPortfolio – Performance Chart</text>
+
+  <rect x="85" y="130" width="1430" height="690" rx="18" fill="#f8fafc" stroke="#e2e8f0"/>
+
+  <g stroke="#cbd5e1" stroke-width="1">
+    <line x1="140" y1="760" x2="1450" y2="760"/>
+    <line x1="140" y1="670" x2="1450" y2="670"/>
+    <line x1="140" y1="580" x2="1450" y2="580"/>
+    <line x1="140" y1="490" x2="1450" y2="490"/>
+    <line x1="140" y1="400" x2="1450" y2="400"/>
+    <line x1="140" y1="310" x2="1450" y2="310"/>
+    <line x1="140" y1="220" x2="1450" y2="220"/>
+  </g>
+
+  <path d="M140,740 L260,700 L380,680 L500,640 L620,610 L740,560 L860,530 L980,470 L1100,430 L1220,350 L1340,300 L1450,240 L1450,760 L140,760 Z" fill="url(#lineFill)"/>
+  <polyline points="140,740 260,700 380,680 500,640 620,610 740,560 860,530 980,470 1100,430 1220,350 1340,300 1450,240" fill="none" stroke="#2563eb" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="1450" cy="240" r="8" fill="#1d4ed8"/>
+  <text x="1240" y="200" font-family="Segoe UI, Arial" font-size="24" fill="#0f172a" font-weight="700">+38,7% seit Jahresbeginn</text>
+
+  <text x="120" y="205" font-family="Segoe UI, Arial" font-size="18" fill="#475569">€ 200k</text>
+  <text x="120" y="295" font-family="Segoe UI, Arial" font-size="18" fill="#475569">€ 180k</text>
+  <text x="120" y="385" font-family="Segoe UI, Arial" font-size="18" fill="#475569">€ 160k</text>
+  <text x="120" y="475" font-family="Segoe UI, Arial" font-size="18" fill="#475569">€ 140k</text>
+  <text x="120" y="565" font-family="Segoe UI, Arial" font-size="18" fill="#475569">€ 120k</text>
+  <text x="120" y="655" font-family="Segoe UI, Arial" font-size="18" fill="#475569">€ 100k</text>
+  <text x="120" y="745" font-family="Segoe UI, Arial" font-size="18" fill="#475569">€ 80k</text>
+
+  <text x="160" y="795" font-family="Segoe UI, Arial" font-size="18" fill="#475569">Jan</text>
+  <text x="390" y="795" font-family="Segoe UI, Arial" font-size="18" fill="#475569">Mär</text>
+  <text x="620" y="795" font-family="Segoe UI, Arial" font-size="18" fill="#475569">Mai</text>
+  <text x="850" y="795" font-family="Segoe UI, Arial" font-size="18" fill="#475569">Jul</text>
+  <text x="1080" y="795" font-family="Segoe UI, Arial" font-size="18" fill="#475569">Sep</text>
+  <text x="1310" y="795" font-family="Segoe UI, Arial" font-size="18" fill="#475569">Nov</text>
+</svg>

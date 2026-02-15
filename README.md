@@ -21,9 +21,9 @@ Portfolio-Manager für Windows mit Fokus auf einfache Erfassung, Performance-Üb
 
 ## 📸 Screenshots
 
-![Portfolio Übersicht](docs/images/screenshot_portfolio.png)
-![Performance Chart](docs/images/screenshot_chart.png)
-![Dividenden Tracking](docs/images/screenshot_dividends.png)
+![Portfolio Übersicht](docs/images/screenshot_portfolio.svg)
+![Performance Chart](docs/images/screenshot_chart.svg)
+![Dividenden Tracking](docs/images/screenshot_dividends.svg)
 
 ## 🚀 Installation
 

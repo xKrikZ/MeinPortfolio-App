@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="40" y="30" width="1520" height="840" rx="20" fill="#ffffff"/>
+  <rect x="40" y="30" width="1520" height="70" rx="20" fill="#111827"/>
+  <text x="80" y="75" font-family="Segoe UI, Arial" font-size="28" fill="#f9fafb" font-weight="700">MeinPortfolio – Übersicht</text>
+
+  <rect x="80" y="140" width="420" height="170" rx="16" fill="#ecfeff" stroke="#a5f3fc"/>
+  <text x="105" y="188" font-family="Segoe UI, Arial" font-size="24" fill="#0f172a" font-weight="600">Depotwert</text>
+  <text x="105" y="245" font-family="Segoe UI, Arial" font-size="40" fill="#0f766e" font-weight="800">€ 184.530,42</text>
+
+  <rect x="540" y="140" width="420" height="170" rx="16" fill="#f0fdf4" stroke="#bbf7d0"/>
+  <text x="565" y="188" font-family="Segoe UI, Arial" font-size="24" fill="#0f172a" font-weight="600">Tagesänderung</text>
+  <text x="565" y="245" font-family="Segoe UI, Arial" font-size="40" fill="#15803d" font-weight="800">+ € 1.245,90</text>
+
+  <rect x="1000" y="140" width="520" height="170" rx="16" fill="#fffbeb" stroke="#fde68a"/>
+  <text x="1025" y="188" font-family="Segoe UI, Arial" font-size="24" fill="#0f172a" font-weight="600">Assets</text>
+  <text x="1025" y="245" font-family="Segoe UI, Arial" font-size="40" fill="#a16207" font-weight="800">10 / 10</text>
+
+  <rect x="80" y="350" width="1440" height="470" rx="16" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="105" y="395" font-family="Segoe UI, Arial" font-size="24" fill="#0f172a" font-weight="700">Portfolio Positionen</text>
+
+  <rect x="105" y="425" width="1390" height="52" rx="10" fill="#e2e8f0"/>
+  <text x="125" y="458" font-family="Segoe UI, Arial" font-size="20" fill="#334155">Asset</text>
+  <text x="520" y="458" font-family="Segoe UI, Arial" font-size="20" fill="#334155">Bestand</text>
+  <text x="760" y="458" font-family="Segoe UI, Arial" font-size="20" fill="#334155">Kurs</text>
+  <text x="980" y="458" font-family="Segoe UI, Arial" font-size="20" fill="#334155">Wert</text>
+  <text x="1220" y="458" font-family="Segoe UI, Arial" font-size="20" fill="#334155">P/L</text>
+
+  <g font-family="Segoe UI, Arial" font-size="20" fill="#0f172a">
+    <rect x="105" y="490" width="1390" height="52" rx="10" fill="#ffffff"/>
+    <text x="125" y="523">Apple (AAPL)</text><text x="520" y="523">24</text><text x="760" y="523">$ 191,12</text><text x="980" y="523">€ 4.236,40</text><text x="1220" y="523" fill="#15803d">+12,4%</text>
+    <rect x="105" y="550" width="1390" height="52" rx="10" fill="#ffffff"/>
+    <text x="125" y="583">MSCI World ETF</text><text x="520" y="583">88</text><text x="760" y="583">€ 103,45</text><text x="980" y="583">€ 9.103,60</text><text x="1220" y="583" fill="#15803d">+8,1%</text>
+    <rect x="105" y="610" width="1390" height="52" rx="10" fill="#ffffff"/>
+    <text x="125" y="643">Bitcoin (BTC)</text><text x="520" y="643">0,42</text><text x="760" y="643">€ 52.800,00</text><text x="980" y="643">€ 22.176,00</text><text x="1220" y="643" fill="#b91c1c">-1,7%</text>
+  </g>
+</svg>
