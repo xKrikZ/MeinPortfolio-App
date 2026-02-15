@@ -1,0 +1,8 @@
+# Core dependencies
+matplotlib>=3.5.0
+tkcalendar>=1.6.1
+Pillow>=9.0.0
+
+# Optional (für erweiterte Features)
+win10toast>=0.9  # Windows notifications
+requests>=2.28.0  # Für API-Calls (Currency/Benchmarks)
