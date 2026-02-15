@@ -2,6 +2,8 @@
 
 > Professionelle Desktop-Anwendung für Aktien-, ETF- und Krypto-Portfolio-Verwaltung
 
+Portfolio-Manager für Windows mit Fokus auf einfache Erfassung, Performance-Überblick und lokale Datenspeicherung.
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.10+-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -9,24 +11,13 @@
 
 ## ✨ Features
 
-### Kostenlose Version
+### Aktuelle Funktionen
 - ✅ Portfolio-Tracking für bis zu 10 Assets
 - ✅ Manuelle Kurseingabe
 - ✅ Gewinn/Verlust-Berechnung
 - ✅ Basis-Charts und Diagramme
 - ✅ CSV Import/Export
 - ✅ Automatische Backups
-
-### Premium Version
-- ⭐ Unbegrenzte Assets
-- ⭐ Dividenden-Tracking
-- ⭐ Benchmark-Vergleich (Alpha, Beta, Sharpe Ratio)
-- ⭐ Preisalarme mit Desktop-Benachrichtigungen
-- ⭐ Automatische Kurs-Updates (API)
-- ⭐ Multi-Währungs-Support
-- ⭐ Performance-Analyse
-- ⭐ Bulk-Import
-- ⭐ Priority Support
 
 ## 📸 Screenshots
 
