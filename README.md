@@ -28,15 +28,17 @@ Portfolio-Manager für Windows mit Fokus auf einfache Erfassung, Performance-Üb
 ## 🚀 Installation
 
 ### Option 1: Windows Installer (Empfohlen)
-1. Download: [PortfolioManager-Setup-v1.0.0.exe](https://github.com/IhrUsername/portfolio-manager/releases/latest)
-2. Doppelklick auf die .exe
-3. Folge dem Installations-Assistenten
-4. Fertig! 🎉
+1. Öffne die Release-Seite: [GitHub Releases](https://github.com/xKrikZ/MeinPortfolio-App/releases)
+2. Lade im neuesten Release die Setup-Datei (`*.exe`) aus **Assets** herunter.
+3. Doppelklick auf die .exe
+4. Folge dem Installations-Assistenten
+5. Fertig! 🎉
 
 ### Option 2: Portable Version
-1. Download: [PortfolioManager-v1.0.0-Portable.zip](https://github.com/IhrUsername/portfolio-manager/releases/latest)
-2. Entpacke das ZIP
-3. Führe `PortfolioManager.exe` aus
+1. Öffne die Release-Seite: [GitHub Releases](https://github.com/xKrikZ/MeinPortfolio-App/releases)
+2. Lade im neuesten Release die Portable-Datei (`*.zip`) aus **Assets** herunter.
+3. Entpacke das ZIP
+4. Führe `PortfolioManager.exe` aus
 
 ### Option 3: Von Quellcode (Entwickler)
 Hinweis: Markdown-Zeilen wie `# ...`, `## ...`, `- ...` oder `![...]` werden nicht im Terminal ausgeführt.
@@ -60,8 +62,8 @@ python main.py
 Optional (nur wenn du wirklich von GitHub klonen willst):
 
 ```bash
-git clone https://github.com/<USERNAME>/<REPO>.git
-cd <REPO>
+git clone https://github.com/xKrikZ/MeinPortfolio-App.git
+cd MeinPortfolio-App
 ```
 
 ## 📄 Lizenz
